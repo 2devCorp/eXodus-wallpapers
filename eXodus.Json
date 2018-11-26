@@ -551,11 +551,17 @@
       "name": "Wall 092",
       "thumbnail": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20092.jpg"
     },
-     {
+    {
       "author": "Unsplash",
       "url": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20093.jpg",
       "name": "Wall 093",
       "thumbnail": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20093.jpg"
+    },
+     {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20094.jpg",
+      "name": "Wall 094",
+      "thumbnail": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20094.jpg"
     }
     ]
  }
