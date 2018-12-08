@@ -593,11 +593,17 @@
       "name": "Wall 099",
       "thumbnail": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20099.jpg"
     },
-     {
+    {
       "author": "Unsplash",
       "url": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20100.jpg",
       "name": "Wall 100",
       "thumbnail": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20100.jpg"
+    },
+     {
+      "author": "Suzanne G.",
+      "url": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20101.jpg",
+      "name": "Wall 101",
+      "thumbnail": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20101.jpg"
     }
     ]
  }
