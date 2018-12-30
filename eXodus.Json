@@ -612,10 +612,16 @@
       "thumbnail": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20102.jpg"
     },
     {
-      "author": "Unsplash",
+      "author": "2devCorp",
       "url": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20103.jpg",
       "name": "Wall 103",
       "thumbnail": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20103.jpg"
+    },
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20104.jpg",
+      "name": "Wall 104",
+      "thumbnail": "https://raw.githubusercontent.com/2devCorp/eXodus-wallpapers/master/Unsplash%20104.jpg"
     }
     ]
  }
